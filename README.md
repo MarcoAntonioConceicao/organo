@@ -2,7 +2,7 @@ Marco Antonio Conceição.
 
 React Application for Alura.
 
-You Can acess the Project in: https://organo-xi-five.vercel.app/
+You can acess the Project in: https://organo-xi-five.vercel.app/
 
 # Getting Started with Create React App
 
